@@ -1,0 +1,18 @@
+.header {
+  width: 100%;
+  padding: 2%;
+  color: black;
+  text-align: center;
+}
+
+.mrgnbtm {
+  margin-top: 20px;
+}
+
+.btncenter {
+  text-align: center;
+}
+
+.mrgnttm10 {
+  margin-bottom: 10px;
+}
