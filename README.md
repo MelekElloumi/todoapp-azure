@@ -71,7 +71,7 @@ We will now explain how we used each azure service.
 
 ![cosmos](images/cosmos.jpg)
 
-### App service 
+### Azure App service 
 - We deploy the image from our Azure Container Registry into a web app service.
 - After few seconds, the URL is available and we can use the app.
 - We used a free tier Linux App service plan that gives us the ability to scale up the app when needed.
